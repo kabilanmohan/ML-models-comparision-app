@@ -11,7 +11,7 @@ This is a web application built with Streamlit that allows users to compare the 
 
 ## Demo
 
-You can access the app live on Streamlit Cloud .
+You can access the app live on Streamlit Cloud Link -> https://ml-models-comparision-app.streamlit.app/.
 
 ## Installation
 
